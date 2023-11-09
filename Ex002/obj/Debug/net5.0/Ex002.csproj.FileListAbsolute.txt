@@ -1,0 +1,16 @@
+C:\Users\Shematicx\repoo\Examples\Ex002\bin\Debug\net5.0\Ex002.exe
+C:\Users\Shematicx\repoo\Examples\Ex002\bin\Debug\net5.0\Ex002.deps.json
+C:\Users\Shematicx\repoo\Examples\Ex002\bin\Debug\net5.0\Ex002.runtimeconfig.json
+C:\Users\Shematicx\repoo\Examples\Ex002\bin\Debug\net5.0\Ex002.runtimeconfig.dev.json
+C:\Users\Shematicx\repoo\Examples\Ex002\bin\Debug\net5.0\Ex002.dll
+C:\Users\Shematicx\repoo\Examples\Ex002\bin\Debug\net5.0\ref\Ex002.dll
+C:\Users\Shematicx\repoo\Examples\Ex002\bin\Debug\net5.0\Ex002.pdb
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\Ex002.csproj.AssemblyReference.cache
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\Ex002.AssemblyInfoInputs.cache
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\Ex002.AssemblyInfo.cs
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\Ex002.dll
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\ref\Ex002.dll
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\Ex002.pdb
+C:\Users\Shematicx\repoo\Examples\Ex002\obj\Debug\net5.0\Ex002.genruntimeconfig.cache
